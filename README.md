@@ -1,6 +1,6 @@
 # AVSOPS Organizations — Open Data
 
-Public dataset of **12,000+ veteran service organizations** across all 50 U.S. states and 3,144+ counties, maintained by [AVSOPS](https://avsops.com) — a 501(c)(3) nonprofit open data initiative.
+Public dataset of **13,000+ veteran service organizations** across all 50 U.S. states and 3,144+ counties, maintained by [AVSOPS](https://avsops.com) — a 501(c)(3) nonprofit open data initiative.
 
 ## What's in this repo
 
@@ -13,6 +13,8 @@ Public dataset of **12,000+ veteran service organizations** across all 50 U.S. s
 | `legion/state-departments.csv` | 51 | American Legion state departments |
 | `dav/local-chapters.csv` | 1,136 | Disabled American Veterans chapters |
 | `fra/local-branches.csv` | 336 | Fleet Reserve Association branches |
+| `mcl/local-posts.csv` | 974 | Marine Corps League detachments |
+| `mcl/state-departments.csv` | 50 | MCL headquarters + state departments |
 | `other/state-departments.csv` | 51 | State departments for other organizations (NSDAR, etc.) |
 | `war-periods.csv` | 11 | War era categories (American Revolution through War on Terror) |
 
@@ -39,7 +41,7 @@ Each organization is categorized by the war era in which it was founded:
 | Mexican-American War | 1846-1848 | — |
 | Civil War | 1861-1865 | SUV, MOLLUS |
 | Spanish-American War | 1898 | VFW |
-| World War I | 1914-1918 | American Legion, DAV, FRA |
+| World War I | 1914-1918 | American Legion, DAV, FRA, MCL |
 | World War II | 1939-1945 | AMVETS, JWV |
 | Korean War | 1950-1953 | KWVA |
 | Vietnam War | 1955-1975 | VVA |
