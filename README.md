@@ -1,6 +1,6 @@
 # AVSOPS Organizations — Open Data
 
-Public dataset of **13,000+ veteran service organizations** across all 50 U.S. states and 3,144+ counties, maintained by [AVSOPS](https://avsops.com) — a 501(c)(3) nonprofit open data initiative.
+Public dataset of **13,000+ veteran service organizations** across all 50 U.S. states and 3,144+ counties, maintained by [AVSOPS](https://avsops.com) — a 501(c)(3) nonprofit organization (EIN 41-4858187) publishing open veteran service data.
 
 ## What's in this repo
 
@@ -11,7 +11,9 @@ Public dataset of **13,000+ veteran service organizations** across all 50 U.S. s
 | `vfw/state-departments.csv` | 50 | VFW state departments |
 | `legion/local-posts.csv` | 9,199 | American Legion local posts |
 | `legion/state-departments.csv` | 51 | American Legion state departments |
-| `dav/local-chapters.csv` | 1,136 | Disabled American Veterans chapters |
+| `dav/local-chapters.csv` | 1,230 | Disabled American Veterans chapters (1,106 active + 124 defunct) |
+| `dav/state-departments.csv` | 55 | DAV state departments |
+| `dav/service-offices.csv` | 89 | DAV service offices (62 NSO + 27 TSO) |
 | `fra/local-branches.csv` | 336 | Fleet Reserve Association branches |
 | `mcl/local-posts.csv` | 974 | Marine Corps League detachments |
 | `mcl/state-departments.csv` | 50 | MCL headquarters + state departments |
@@ -78,7 +80,7 @@ This data is released under the [Creative Commons Attribution 4.0 International 
 
 ## About AVSOPS
 
-AVSOPS is a 501(c)(3) nonprofit that collects, organizes, and publishes veteran service data so no veteran has to search 50 websites to find help.
+AVSOPS is a 501(c)(3) nonprofit organization that collects, organizes, and publishes open veteran service data so no veteran has to search 50 websites to find help. Donations are tax-deductible to the extent allowed by law.
 
 - Website: [avsops.com](https://avsops.com)
 - State data (CVSOs): [AVSOPS/cvso-state-data](https://github.com/AVSOPS/cvso-state-data)
